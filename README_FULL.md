@@ -103,20 +103,7 @@ Some of the critical insights discovered:
 
 ---
 
-## 📺 9. Dashboard Preview
-*(Add dashboard images if needed using markdown image syntax)*
-
-You provided three dashboard preview images; include them like this in GitHub:
-
-```
-![Dashboard 1](dashboard_image_1.png)
-![Dashboard 2](dashboard_image_2.png)
-![Dashboard 3](dashboard_image_3.png)
-```
-
----
-
-# ✅ 10. Conclusions & Final Summary
+# ✅ 9. Conclusions & Final Summary
 
 Completed end-to-end **Exploratory Data Analysis (EDA)** and a fully **interactive Power BI dashboard**, surfacing:
 
